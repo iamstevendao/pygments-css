@@ -1,6 +1,11 @@
 # pygments-css
+## Added vscode.css by me
+> From a fan of Visual Studio code with <3
+
+[![@iamstevendao](https://img.shields.io/badge/twitter-@iamstevendao-blue.svg)](https://twitter.com/iamstevendao) [![@linkedin](https://img.shields.io/badge/LinkedIn-@iamstevendao-blue.svg)](https://www.linkedin.com/in/steven-dao-b9a065127/)
 
 
+### Forked from: 
 [Pygments](http://pygments.org), a Python-based code highlighting tool, comes with a set of builtin styles (not css files) for code highlighting. You have to generate a CSS file using the command line.
 
 You can generate these yourself, but this git repository has already generated them for you.
